@@ -1,6 +1,6 @@
 # 568_project
 stock predictor based on Yahoo finance and LSTM model
 
-<img src="SP-home.png">
+<img src="screenshot-SP-home.png">
 
-<img src="SP-overview.png">
+<img src="screenshot-SP-overview.png">
