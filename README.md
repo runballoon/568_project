@@ -1,8 +1,9 @@
 # 568_project
 Stock Predictor based on Yahoo finance and LSTM model
 
+/stock
 <img src="screenshot-SP-home.png">
-
+/overview
 <img src="screenshot-SP-overview.png">
 
 # Installation before run
